@@ -1,0 +1,160 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+}
+
+div {
+	box-sizing: border-box;
+}
+
+.hed {
+	background: #f6f2f2;
+	height: 30px;
+	margin: 0 auto;
+}
+
+.block_menu {
+	background: #313030;
+	height: 90px;
+	margin: 0 auto;
+}
+
+
+header  {
+	background: #f6f2f2;
+	height: 600px;
+}
+
+.container {
+	width: 1350px;
+	margin: 0 auto;
+}
+
+nav {
+	float: left;
+	margin-top: 30px;
+	margin-left: 547px;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block
+}
+
+.menu a {	
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+.title_1 {
+	font-size: 60px;
+	color: #000
+	font: bold;
+	text-transform: uppercase;
+	text-align: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-top: 150px;
+
+}
+
+.title_2 {
+	font-size: 17px;
+	color: #868383;
+	text-align: left;
+	margin-top: 0px;
+}
+
+.title_3 {
+	font-size: 50px;
+	color: #000
+	font: bold;
+	text-transform: uppercase;
+	text-align: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-top: 150px;
+
+}
+
+.button1 a:hover {
+  font-weight: 650;
+  color: white;
+  background: #df2929;
+}
+
+.button1 a {
+  text-decoration: none;
+  display: inline-block;
+  width: 225px;
+  height: 55px;
+  line-height: 55px;
+  border-radius: 5px;
+  margin: 20px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 650;
+  color: white;
+  background: #ff2d2d;
+  margin: 0;
+  margin-top: 40px;
+}
+
+
+.video {
+	float: right;
+	margin-right: 250px;
+	margin-top: -80px;
+}
+
+.menu li {
+	display: block;
+	padding: 2.2em;
+	background: #313030;
+	color: #29838C;
+	float:left;
+	margin-left: 10px;
+}
+
+
+.button2 a:hover {
+  font-weight: 650;
+  color: white;
+  background: #df2929;
+  border: 2px solid #df2929;
+}
+
+
+.button2 a {
+  text-decoration: none;
+  display: inline-block;
+  width: 225px;
+  height: 55px;
+  line-height: 55px;
+  border: 2px solid #ff2d2d;
+  border-radius: 5px;
+  margin: 20px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 650;
+  color: #ff2d2d;
+  margin: 0;
+  margin-top: 40px;
+}
